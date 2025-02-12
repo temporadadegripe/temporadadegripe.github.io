@@ -4264,3 +4264,17 @@ body.is-touch #banner {
   max-width: 6%;
   height: auto;
 }
+
+.form-section {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+  padding: 3rempx 1rem;
+}
+
+.form-wrapper {
+  width: 100%;
+  max-width: 50rem;
+  text-align: center;
+}
